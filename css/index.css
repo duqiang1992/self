@@ -209,7 +209,7 @@ html,body {
   top: 0.5rem;
   width:3rem;
   height:3rem;
-  background: url("../img/11.png") center center no-repeat;
+  background: url("../img/21.png") center center no-repeat;
   background-size: 100% 100%;
   text-align: center;
   overflow: hidden;
@@ -374,7 +374,7 @@ html,body {
   font-size: 0.55rem;
   font-weight: bold;
   text-align: center;
-  background: url("../img/93.png") center center no-repeat;
+  background: url("../img/2.png") center center no-repeat;
   background-size: 100% 100%;
   opacity: 0;
   filter: alpha(opacity=0);
@@ -629,7 +629,7 @@ html,body {
   width: 3rem;
   height: 3rem;
   line-height: 2rem;
-  background: url("../img/81-4.png") center center no-repeat;
+  background: url("../img/17.png") center center no-repeat;
   background-size: cover;
 }
 .page5 .D-box {
@@ -665,7 +665,7 @@ html,body {
   margin: auto;
   width: 3rem;
   height: 6rem;
-  background: url("../img/81-5.png") center center no-repeat;
+  background: url("../img/18.png") center center no-repeat;
   background-size: 100% 100%;
 }
 .page5 .D-box .p5-box .allD span {
@@ -712,7 +712,7 @@ html,body {
 .page5 .D-box .p5-box .p5-d5,
 .page5 .D-box .p5-box .p5-d6,
 .page5 .D-box .p5-box .p5-d7 {
-  background: url("../img/93.png") center center no-repeat;
+  background: url("../img/2.png") center center no-repeat;
   background-size: 100%;
   width: 2.5rem;
 }

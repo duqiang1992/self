@@ -742,25 +742,6 @@ html,body {
   }
 }
 .page6 {
-  position: relative;
   background: url("../img/30.png") center center no-repeat;
   background-size: cover;
-}
-.page6 .p6-img1{
-  opacity: 0;
-  filter: alpha(opacity=0);
-  position: absolute;
-  left: 0;
-  top:0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-  width: 95%;
-  height: 60%;
-}
-#page6 .p6-img1{
-  opacity: 1;
-  filter: alpha(opacity=100);
-  -webkit-animation: zoomIn 1.5s 0.2s both;
-  animation: zoomIn 1.5s 0.2s both;
 }

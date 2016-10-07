@@ -573,6 +573,10 @@ html,body {
   opacity: 1;
   filter: alpha(opacity=100);
 }
+#page4 .total{
+  -webkit-transform-origin: center center;
+  transform-origin: center center;
+}
 #page4 .page4-D1 {
   -webkit-animation: p4-Con 6s 3.8s both linear infinite;
   animation: p4-Con 6s 4s both linear infinite;

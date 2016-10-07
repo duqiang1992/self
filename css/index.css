@@ -513,7 +513,7 @@ html,body {
   top: 1.8rem;
   font-size: 0.2rem;
   padding: 0.2rem;
-  opacity:0;
+  opacity: 0;
   filter: alpha(opacity=0);
 }
 .page4 .page4-D1 {
@@ -558,16 +558,16 @@ html,body {
   filter: alpha(opacity=100);
 }
 #page4 span {
-  opacity: 1;
-  filter: alpha(opacity=100);
   -webkit-animation: zoomIn 1.2s 1s both;
   animation: zoomIn 1.2s 1s both;
+  opacity: 1;
+  filter: alpha(opacity=100);
 }
 #page4 .content {
-  opacity:1;
-  filter: alpha(opacity=100);
   -webkit-animation: flipInX 1.5s 1.5s linear both;
   animation: flipInX 1.5s 1.5s linear both;
+  opacity: 1;
+  filter: alpha(opacity=100);
 }
 #page4 .page4-D1 {
   -webkit-animation: p4-Con 6s 3.8s both linear infinite;

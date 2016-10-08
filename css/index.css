@@ -287,8 +287,6 @@ html,body {
   animation: hMove 3s both infinite;
 }
 #page2 .p2-img1 {
-  opacity: 1;
-  filter: alpha(opacity=100);
   -webkit-animation: zoomIn 1s 0.3s both;
   animation: zoomIn 1s 0.3s both;
 }
@@ -564,14 +562,10 @@ html,body {
 #page4 span {
   -webkit-animation: zoomIn 1.2s 1s both;
   animation: zoomIn 1.2s 1s both;
-  opacity: 1;
-  filter: alpha(opacity=100);
 }
 #page4 .content {
   -webkit-animation: flipInX 1.5s 1.5s linear both;
   animation: flipInX 1.5s 1.5s linear both;
-  opacity: 1;
-  filter: alpha(opacity=100);
 }
 #page4 .total{
   -webkit-transform-origin: center center;

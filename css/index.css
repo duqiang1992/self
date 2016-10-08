@@ -597,6 +597,7 @@ html,body {
   }
   100% {
     -webkit-transform: rotateY(360deg);
+    opacity: 1;
   }
 }
 @keyframes p4-Con {
@@ -605,6 +606,7 @@ html,body {
   }
   100% {
     transform: rotateY(360deg);
+    opacity: 1;
   }
 }
 .page5 {
